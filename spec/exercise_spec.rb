@@ -18,7 +18,7 @@ describe "Integer" do
         
         it "should be the correct sum" do
             
-            a = 500 + 1000
+            a = 4000 + 1000
             a.should eq 5000
         end
     end
